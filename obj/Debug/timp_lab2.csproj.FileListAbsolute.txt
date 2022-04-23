@@ -1,0 +1,10 @@
+C:\Users\druzh\source\repos\timp_lab2\bin\Debug\timp_lab2.exe.config
+C:\Users\druzh\source\repos\timp_lab2\bin\Debug\timp_lab2.exe
+C:\Users\druzh\source\repos\timp_lab2\bin\Debug\timp_lab2.pdb
+C:\Users\druzh\source\repos\timp_lab2\obj\Debug\timp_lab2.csproj.AssemblyReference.cache
+C:\Users\druzh\source\repos\timp_lab2\obj\Debug\timp_lab2.Form1.resources
+C:\Users\druzh\source\repos\timp_lab2\obj\Debug\timp_lab2.Properties.Resources.resources
+C:\Users\druzh\source\repos\timp_lab2\obj\Debug\timp_lab2.csproj.GenerateResource.cache
+C:\Users\druzh\source\repos\timp_lab2\obj\Debug\timp_lab2.csproj.CoreCompileInputs.cache
+C:\Users\druzh\source\repos\timp_lab2\obj\Debug\timp_lab2.exe
+C:\Users\druzh\source\repos\timp_lab2\obj\Debug\timp_lab2.pdb
